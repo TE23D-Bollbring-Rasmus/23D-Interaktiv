@@ -1,0 +1,15 @@
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfoInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfo.cs
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.exe
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.deps.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.runtimeconfig.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.sourcelink.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\refint\Interaktiv.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.genruntimeconfig.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\23D Interaktiv\Interaktiv\obj\Debug\net8.0\ref\Interaktiv.dll
