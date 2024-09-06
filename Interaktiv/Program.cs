@@ -1,36 +1,16 @@
-﻿Console.WriteLine("Hej! Är det varmt eller kallt? ");
-string temp = Console.ReadLine();
+﻿Console.WriteLine("Hej och välkommen till denna frågesport");
+string fråga1 = Console.ReadLine();
+Console.WriteLine("Vad är störst, a en elefant, b en giraff, c ett lejon?")
 
-if (temp.ToLower() == "kallt")
+if (fråga1.ToLower() == "a")
 {
-    Console.WriteLine("Vill du gå framåt eller åt höger?");
-    string direction1 = Console.ReadLine();
-    if (direction1.ToLower() == "framåt")
-    {
-        Console.WriteLine("Rätt!");
-        Console.ReadLine();
-    }
-    if (direction1.ToLower() == "höger")
-    {
-        Console.WriteLine("fel!!!!!!!!!!!!!");
-        Console.ReadLine();
-    }
+    Console.WriteLine("Korrekt!");
+    Console.ReadLine();
 }
-
-if (temp.ToLower() == "varmt")
+else
 {
-    Console.WriteLine("Vill du gå åt vänster eller bakåt?");
-    string direction2 = Console.ReadLine();
-    if (direction2.ToLower() == "vänster")
-    {
-        Console.WriteLine("Testa något annat");
-        Console.ReadLine();
-    }
-     if (direction2.ToLower() == "bakåt")
-     {
-        Console.WriteLine("Testa något annat");
-         Console.ReadLine();
-     }
+    Console.WriteLine("Nej, det var Elefant!");
+    Console.ReadLine();
 }
 
 
